@@ -46,7 +46,7 @@
     }
   },
   "devDependencies": {
-    "electron": "20.1.4",
+    "electron": "20.2.0",
     "electron-store": "^8.1.0",
     "@electron-forge/cli": "^6.0.0-beta.66",
     "@electron-forge/maker-deb": "^6.0.0-beta.66",
