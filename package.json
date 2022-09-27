@@ -58,7 +58,7 @@
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0",
     "@typescript-eslint/eslint-plugin": "^5.37.0",
-    "@typescript-eslint/parser": "^5.36.2",
+    "@typescript-eslint/parser": "^5.38.1",
     "electron-store": "^8.1.0",
     "@electron-forge/cli": "^6.0.0-beta.66",
     "@electron-forge/maker-deb": "^6.0.0-beta.66",
